@@ -6,4 +6,5 @@
 - 🎛 I created and maintain [CommandPost](https://github.com/commandpost/commandpost).
 - 🤳 I'm currently working on [Gyroflow Toolbox](https://github.com/latenitefilms/GyroflowToolbox).
 - 🖥 I'm also working on my first Mac App Store app, [BRAW Toolbox](https://github.com/latenitefilms/brawtoolbox).
-- 💬 You can find me on [Twitter](https://twitter.com/chrisatlatenite).
+- 💰 If you like what I do, you can sponsor me on [GitHub](https://github.com/sponsors/latenitefilms).
+- 💬 You can also find me on [Twitter](https://twitter.com/chrisatlatenite).
